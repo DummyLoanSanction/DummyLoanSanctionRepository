@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DummyLoanSanction1Application {
 
 	public static void main(String[] args) {
+		System.out.println("KKKK");
 		SpringApplication.run(DummyLoanSanction1Application.class, args);
 	}
 
